@@ -1,0 +1,4 @@
+# Build folders for the project
+**/*.egg-info
+**/build
+**/dist
